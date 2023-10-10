@@ -1,6 +1,7 @@
 # nim-web-worker
 
-`nim-web-worker` provides an implementation of web worker written in [Nim](https://nim-lang.org).
+`nim-web-worker` provides an implementation of web worker written in
+[Nim](https://nim-lang.org).
 
 ## Installation
 
@@ -12,7 +13,8 @@ nimble install https://github.com/izumiya-keisuke/nim-web-worker
 
 With `import nim_web_worker`, you can use all features provided by this module.
 Please refer to the
-[documentation](https://izumiya-keisuke.github.io/nim-web-worker/nim_web_worker.html) for details.
+[documentation](https://izumiya-keisuke.github.io/nim-web-worker/nim_web_worker.html)
+for details.
 
 ## For Developers
 
